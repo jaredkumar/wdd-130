@@ -1,4 +1,3 @@
-
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a & */
@@ -6,7 +5,7 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #03045e  ;
+  --primary-color: #03045e   ;
   --secondary-color: #023e8a ;
   --accent1-color: #0077b6;
   --accent2-color: #0096c7;
@@ -20,13 +19,12 @@ Fonts are separated by a & */
   --headline-color-on-color: #023e8a; /* headlines on a colored background */ 
   --paragraph-color-on-white: #0077b6; /* paragraph text on a white background */ 
   --paragraph-color-on-color: #0096c7; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #0096c7  ;
-  --nav-link-color: #0096c7;
-  --nav-background-color:#023e8a ;
-  --nav-hover-link-color: #023e8a;
-  --nav-hover-background-color: #0096c7;
+  --paragraph-background-color: #023e8a  ;
+  --nav-link-color: #396E94;
+  --nav-background-color: #023e8a;
+  --nav-hover-link-color: #0096c7;
+  --nav-hover-background-color: #0077b6;
 }
-
 
 /*  Look around below...but DON'T CHANGE ANYTHING! */
 
